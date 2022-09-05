@@ -8,7 +8,7 @@ Bem vindo a minha página ✋
 Tenho 25 anos, moro em curitiba e atualmente procurando alguma oportunidade na area de programação.
 
 <br>
-•🧠 Atualmente estou aprendendo React e Typescript.
+•🧠 Atualmente estou aprendendo React e NodeJS.
 
 •📫 Meu email: emanuel_heitor@hotmail.com
 
