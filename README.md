@@ -5,7 +5,7 @@ Bem vindo a minha página ✋
 
 😁Sobre min:
 
-Tenho 25 anos, moro em curitiba e atualmente procurando alguma oportunidade na area de programação.
+Tenho 25 anos, moro em curitiba e atualmente estudando muito React e NodeJs
 
 <br>
 •🧠 Atualmente estou aprendendo React e NodeJS.
