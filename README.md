@@ -8,7 +8,7 @@ Bem vindo a minha página ✋
 Tenho 25 anos, moro em curitiba, trabalho periodo integral e estudo de noite/madrugada (tudo pelo objetivo)
 
 <br>
-•🧠 Atualmente estou aprendendo React e NodeJS.
+•🧠 Atualmente estou aprendendo React Native.
 
 •📫 Meu email: emanuel_heitor@hotmail.com
 
